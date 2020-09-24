@@ -13,3 +13,8 @@ function togglePaperlessEnrollment() {
 	isPaperless = !isPaperless;
 	document.getElementById("paperlessEnrollment").innerHTML = isPaperless;
 }
+
+function transfer(){
+    alert("Your money has been transfered!");
+}
+
